@@ -1,16 +1,21 @@
-## Hi there 👋
+# Mi Perfil Awesome de GitHub
 
-<!--
-**Juliancho-14/Juliancho-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hola, soy Julián Mosquera
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 🎓 Estudiante de Estadística en la mejor Universidad Pública de Colombia.
+- 💡 Apasionado por la matemática, los videojuegos, el ajedrez y el microfútbol.
+- 🚀 Estoy aprendiendo programación en Python y explorando otros lenguajes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Mis Metas
+- Alcanzar un dominio sólido en herramientas de programación en un año.
+
+### 🛠️ Tecnologías
+- Python 🐍
+- Lenguajes de programación en general (¡explorando nuevos cada día!)
+
+### 🎮 Pasatiempos
+- 🕹️ Videojuegos
+- ♟️ Ajedrez
+- ⚽ Microfútbol
+
